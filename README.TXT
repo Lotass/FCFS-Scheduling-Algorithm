@@ -1,3 +1,7 @@
+FCFS (First Come First Served) is a process scheduling algorithm it has a poor performance and a large average waiting time
+..the first process that enters the ready queue is executed regardless its priority or Burst time. this is neither preempted nor 
+non-preempted scheduling algorithm
+
 ========================
 BUILD OUTPUT DESCRIPTION
 ========================
